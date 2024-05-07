@@ -7,16 +7,18 @@
   justify-content: center;
 }
 .ccontainer {
-  width: 450px;
+  max-width: 100%;
   padding: 20px;
-  margin-top: 80px;
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  border-radius: 20px;
+  height: 100%;
   text-align: justify;
+  display: block;
+  margin: 0;
 }
 h1 {
   text-align: center;
+  font-size: 12px;
 }
 
 .question {
