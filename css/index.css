@@ -3,12 +3,6 @@
   padding: 0;
   display: block;
 }
-body {
-  font-family: "Poppins", sans-serif;
-  background: #b9b3a9;
-  display: flex;
-  justify-content: center;
-}
 #choose {
   margin: 0;
   padding: 0;
