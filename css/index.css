@@ -4,19 +4,15 @@
   display: block;
 }
 #choose {
-  margin: 0;
-  padding: 0;
   display: none;
 }
 #nipple {
-  margin: 0;
-  padding: 0;
   display: none;
 }
 
 .social-vote-button {
   margin-top: 15px;
-  font-size: 1.6rem;
+  font-size: 0.8rem;
   display: inline-block;
 }
 
@@ -154,22 +150,14 @@
 }
 
 #nipple {
-  width: 80%;
-  height: 30vh;
-  border-width: 2px;
   position: fixed;
-  top: 40vh;
-  left: 10vw;
+  top: 30vh;
   z-index: 9999;
 }
 
 #choose {
-  width: 80%;
-  height: 30vh;
-  border-width: 2px;
   position: fixed;
-  top: 40vh;
-  left: 10vw;
+  top: 26.5vh;
   z-index: 9999;
 }
 #fblogo {
